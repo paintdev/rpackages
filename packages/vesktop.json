@@ -1,0 +1,11 @@
+{
+  "name": "vesktop",
+  "version": "latest",
+  "installer": true,
+  "urls": {
+    "windows-x86_64": "https://vencord.dev/download/vesktop/universal/windows",
+    "linux-x86_64": "https://vencord.dev/download/vesktop/amd64/tar",
+    "macos-aarch64": "https://vencord.dev/download/vesktop/universal/dmg",
+    "macos-x86-64": "https://vencord.dev/download/vesktop/universal/dmg"
+  }
+}
