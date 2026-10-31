@@ -1,0 +1,10 @@
+{
+  "name": "firefox",
+  "version": "latest",
+  "installer": true,
+  "urls": {
+    "windows-x86_64": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US",
+    "linux-x86_64": "https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US",
+    "macos-aarch64": "https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=en-US"
+  }
+}
