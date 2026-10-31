@@ -1,0 +1,11 @@
+{
+  "name": "vencord",
+  "version": "latest",
+  "installer": true,
+  "urls": {
+    "windows-x86_64": "https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe",
+    "linux-x86_64": "https://vencord.dev/install.sh",
+    "macos-aarch64": "https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.dmg",
+    "macos-x86-64": "https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.dmg"
+  }
+}
