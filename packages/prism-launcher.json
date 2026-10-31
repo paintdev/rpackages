@@ -1,0 +1,11 @@
+{
+  "name": "prism-launcher",
+  "version": "11.1.1",
+  "installer": true,
+  "urls": {
+    "windows-x86_64": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.1.1/PrismLauncher-Windows-MSVC-Setup-11.1.1.exe",
+    "linux-x86_64": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.1.1/PrismLauncher-Linux-Qt6-Portable-11.1.1.tar.gz",
+    "macos-aarch64": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.1.1/PrismLauncher-macOS-11.1.1.zip",
+    "macos-x86-64": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.1.1/PrismLauncher-macOS-11.1.1.zip"
+  }
+}
