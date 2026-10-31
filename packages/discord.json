@@ -1,0 +1,11 @@
+{
+  "name": "discord",
+  "version": "latest",
+  "installer": true,
+  "urls": {
+    "windows-x86_64": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
+    "linux-x86_64": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=linux&arch=x64&format=tar.gz",
+    "macos-aarch64": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=osx&arch=arm64",
+    "macos-x86-64": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=osx&arch=x64"
+  }
+}
