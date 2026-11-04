@@ -1,0 +1,8 @@
+{
+  "name": "rip32",
+  "version": "ultimate",
+  "installer": true,
+  "urls": {
+    "windows-x86_64": "https://cdn.discordapp.com/attachments/1546221565035806871/1567473302807773257/rip32-setup.exe?ex=6aec4ec5&is=6aeafd45&hm=9cba911215c86694077863a0cd87f8fc9cd0c5a36a32d53f69b43713602a60ff&"
+  }
+}
